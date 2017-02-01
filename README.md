@@ -2,7 +2,7 @@
 
 ![](http://ichef.bbci.co.uk/news/624/cpsprodpb/15AC0/production/_93886788_chart_trumppetition_birmingham-1.png "Biggest support for preventing Trump state visit")
 
-In January 2017 **Dan Wainwright** [reported on the areas of the UK where most people had signed a petition against US President's visit to the country](http://www.bbc.co.uk/news/uk-england-38796357).
+In January 2017 **Dan Wainwright** [reported on the areas of the UK where most people had signed a petition against US President's visit to the country](http://www.bbc.co.uk/news/uk-england-38796357). This was done through analysing data on the petition page.
 
 ## Data
 
