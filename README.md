@@ -8,6 +8,8 @@ In January 2017 **Dan Wainwright** [reported on the areas of the UK where most p
 
 * The data is published on [the petition page](https://petition.parliament.uk/petitions/171928) [as a JSON file](https://petition.parliament.uk/petitions/171928.json)
 * A [map of the signatures is also available on PetitionMap](http://petitionmap.unboxedconsulting.com/?petition=171928), this is generated from the same JSON data
+* CSV: [Breakdown by area, snapshot 1000 January 30 2017](https://github.com/BBC-Data-Unit/trump-petition/blob/master/trumppetition_areas_snapshot30jan_1000.csv.csv)
+* CSV: [Breakdown by country, snapshot 1000 January 30 2017](https://github.com/BBC-Data-Unit/trump-petition/blob/master/trumppetition_countries_snapshot30jan_1000.csv)
 
 ## Visualisation
 
