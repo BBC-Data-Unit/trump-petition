@@ -18,3 +18,6 @@ In January 2017 **Dan Wainwright** [reported on the areas of the UK where most p
 * Infographic: How Trump petition compares
 * Bar chart: Where the most signatures from overseas came from
 
+## Related repositories
+
+We followed up this story with [a look at the 10 most popular petitions](http://www.bbc.co.uk/news/uk-england-38918569). You can [find the repository for that story here](https://github.com/BBC-Data-Unit/petitions)
